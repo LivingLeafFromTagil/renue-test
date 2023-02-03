@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/renue-test-build/static/css/main.53dfdfff.css",
-    "main.js": "/renue-test-build/static/js/main.f9e0ca46.js",
-    "static/media/out-of-stock.png": "/renue-test-build/static/media/out-of-stock.489f6f0c81d4d57d27a4.png",
-    "static/media/cheese.png": "/renue-test-build/static/media/cheese.28cce0ddd31d2dc07546.png",
-    "index.html": "/renue-test-build/index.html",
-    "main.53dfdfff.css.map": "/renue-test-build/static/css/main.53dfdfff.css.map",
-    "main.f9e0ca46.js.map": "/renue-test-build/static/js/main.f9e0ca46.js.map"
+    "main.css": "/renue-test/static/css/main.53dfdfff.css",
+    "main.js": "/renue-test/static/js/main.785c3460.js",
+    "static/media/out-of-stock.png": "/renue-test/static/media/out-of-stock.489f6f0c81d4d57d27a4.png",
+    "static/media/cheese.png": "/renue-test/static/media/cheese.28cce0ddd31d2dc07546.png",
+    "index.html": "/renue-test/index.html",
+    "main.53dfdfff.css.map": "/renue-test/static/css/main.53dfdfff.css.map",
+    "main.785c3460.js.map": "/renue-test/static/js/main.785c3460.js.map"
   },
   "entrypoints": [
     "static/css/main.53dfdfff.css",
-    "static/js/main.f9e0ca46.js"
+    "static/js/main.785c3460.js"
   ]
 }
